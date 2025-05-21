@@ -36,7 +36,7 @@ n = int(input()) #len(arr)
 for i in range(n):
     arr.append(int(input()))
 print('Minimum number of jumps to reach','end is', minJumps(arr,n))
- 
+ ```
 
 ## Output:
 ![Screenshot 2025-04-29 003905](https://github.com/user-attachments/assets/8d96c65f-252a-4230-93b3-c40d843955fc)
